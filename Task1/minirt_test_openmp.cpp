@@ -1,6 +1,5 @@
 
 #include "C://MINIRT//include//minirt//minirt.h"
-#include <cmath>
 #include <iostream>
 #include <omp.h>
 
